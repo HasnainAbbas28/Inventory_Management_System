@@ -65,6 +65,8 @@ Inventory_Management_System/
 ├── fonts/
 │   └── RobotoMono-Regular.ttf
 │
+├── IMS(Project-Screenshot).png
+│
 ├── .gitignore
 │
 └── README.md
